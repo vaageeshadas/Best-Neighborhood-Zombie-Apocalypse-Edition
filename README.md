@@ -3,6 +3,4 @@ Finding the best Pittsburgh neighborhood to survive in during a zombie apocalyps
 
 ZombieLand
 
-Vaageesha Das
-Anna Plazek
-Yutong Liu
+Vaageesha Das, Anna Plazek, Yutong Liu
