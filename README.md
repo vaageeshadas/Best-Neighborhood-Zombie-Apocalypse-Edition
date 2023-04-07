@@ -21,5 +21,4 @@ Description and links to the datasets used
 - [Operation Green Spaces](https://data.wprdc.org/dataset/operations-green-spaces)    
 - [Allegheny Country Parks Outlines](https://data.wprdc.org/dataset/allegheny-county-parks-outlines)  
 - [Allegheny County Hospitals](https://data.wprdc.org/dataset/hospitals)
-- [Allegheny County Primary Care Access](https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities)  
-
+- [Allegheny County Primary Care Access](https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities)
