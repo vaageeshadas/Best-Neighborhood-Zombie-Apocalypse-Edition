@@ -18,7 +18,7 @@ Finding the best Pittsburgh neighborhood to survive in during a zombie apocalyps
 Description and links to the datasets used
 - [Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2)
 - [Allegheny County Supermarkets & Convenience Stores](https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)  
-- [Pittsburgh SNAP Census Data](https://data.wprdc.org/dataset/pgh/resource/b7156251-6036-4b68-ad2a-95566c84343e)    
+- [City of Pittsburgh Neighborhood Population 2020](https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts)    
 - [Operation Green Spaces](https://data.wprdc.org/dataset/operations-green-spaces)    
 - [Allegheny Country Parks Outlines](https://data.wprdc.org/dataset/allegheny-county-parks-outlines)
 - [Allegheny County Hospitals](https://data.wprdc.org/dataset/hospitals)
